@@ -1,4 +1,4 @@
-package fhj.swengb.assignments.tutorial.furchr
+package fhj.swengb.assignments.tutorial.cfuerbahs
 
 import org.junit.Assert._
 import org.junit.Test
